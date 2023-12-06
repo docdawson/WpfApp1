@@ -43,7 +43,7 @@
         <TextBox Name="textb" Grid.Column="1" Grid.Row="1" Text="0"></TextBox>
         
         <Label Content="ERGEBNIS" Grid.Column="0" Grid.Row="2"/>
-        <TextBlock Name="ergebnis" Grid.Column="1" Grid.Row="2" Background="BlueViolet" Foreground="Aqua" FontWeight="Bold" FontSize="30" FontStretch="Expanded"/>
+        <TextBlock Name="ergebnis" Grid.Column="1" Grid.Row="2" Background="Black" Foreground="Aqua" FontWeight="Bold" FontSize="30" FontStretch="Expanded"/>
     </Grid>
     
     
