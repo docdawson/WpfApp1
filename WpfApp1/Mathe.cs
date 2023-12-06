@@ -10,7 +10,7 @@ namespace WpfApp1
     {
                   
         /// <summary>
-        /// 
+        /// ditte sieht doof aus
         /// </summary>
         /// <param name="x"></param>
         /// <param name="y"></param>
