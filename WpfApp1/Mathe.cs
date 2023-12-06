@@ -39,7 +39,7 @@ namespace WpfApp1
             }
             catch
             {
-                throw new ArgumentException();
+                throw new DivideByZeroException();
             }
             return a;
         }
